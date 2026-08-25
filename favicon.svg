@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="A. Hernandez Junk Removal">
+  <rect width="64" height="64" rx="14" fill="#0E1116"/>
+  <g fill="none" stroke="#FF6A13" stroke-width="4.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M8 40V20h26v20H8Z"/>
+    <path d="M34 27h9l9 8v5H34v-13Z"/>
+    <circle cx="19" cy="46" r="4.2"/>
+    <circle cx="45" cy="46" r="4.2"/>
+  </g>
+</svg>
